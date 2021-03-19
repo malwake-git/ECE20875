@@ -1,0 +1,22 @@
+def histogram(data, n, b, h):
+    # data is a list
+    # n is an integer
+    # b and h are floats
+    
+    # Write your code here
+    
+    # return the variable storing the histogram
+    # Output should be a list
+
+    pass
+
+
+def addressbook(name_to_phone, name_to_address):
+    #name_to_phone and name_to_address are both dictionaries
+    
+    # Write your code here
+
+    # return the variable storing address_to_all
+    # Output should be a dictionary
+    
+    pass
